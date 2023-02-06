@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello 👋
+
+I am software developer with a love to coding 💙.
+
+Feel free to contact me via [Linkedin](https://www.linkedin.com/in/konradryczko) or email: konradryczko1@gmail.com
 
 <!--
 **Ryczko/Ryczko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
